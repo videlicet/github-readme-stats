@@ -8,7 +8,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github.com/videlicet/github-readme-stats.git"
+      "destination": "https://github.com/anuraghazra/github-readme-stats.git"
     }
   ]
 }
